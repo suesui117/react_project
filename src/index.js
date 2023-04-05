@@ -20,6 +20,9 @@ root.render(
     </BrowserRouter> 
   </React.StrictMode>
 );
+
+// Reference: https://stackoverflow.com/questions/71984401/react-router-not-working-with-github-pages
+
 // App this is the function, a component
 
 // If you want to start measuring performance in your app, pass a function

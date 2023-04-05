@@ -53,16 +53,16 @@ function Home() {
       <Link to="/about" style={{color: 'white'}}>About page</Link>
       <br></br>
 
-      <Link to="/api-call" style={{color: 'white'}}>api-call</Link>
+      <Link to="/api-call" style={{color: 'white'}}>API-call</Link>
       <br></br>
 
       <Link to="/youtube" style={{color: 'white'}}>Youtube page</Link>
       <br></br>
 
-      <Link to="/users" style={{color: 'white'}}>users</Link>
+      <Link to="/users" style={{color: 'white'}}>Users</Link>
       <br></br>
 
-      <Link to="/colors" style={{color: 'white'}}>colors</Link>
+      <Link to="/colors" style={{color: 'white'}}>Colors</Link>
       <br></br>
     </div>
 
@@ -78,8 +78,8 @@ function Youtube() {
       <h2>youtube</h2>
       <Link to="/">Home page</Link>
       <br></br>
-      <a href='https://youtube.com' target='_blank' rel='noreferrer'>HAHAHAH
-        Click me -- YouTube</a>
+      <a href='https://youtube.com' target='_blank' rel='noreferrer'>
+        Click me to visit YouTube</a>
     </div>
 
 
