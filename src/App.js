@@ -17,7 +17,7 @@ function App() {
 
   const colors = ['red', 'green', 'blue', 'yellow'];
 
-  const image="https://way-cdn.com/s/lS9lnvgYelIJHUrK/images/csweH7hj74FsUq?quality=960&allowAnimation=false"
+  const image="https://eus-www.sway-cdn.com/s/lS9lnvgYelIJHUrK/images/csweH7hj74FsUq?quality=960&allowAnimation=false"
 
   return (
     <div className="App" style={{
@@ -28,8 +28,6 @@ function App() {
       display: "flex",
       flexDirection: "column",
     }} >
-
-      hi
       <Routes>
         <Route index element={<Home />} />
 
