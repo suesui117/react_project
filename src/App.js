@@ -28,6 +28,8 @@ function App() {
       display: "flex",
       flexDirection: "column",
     }} >
+
+      hi
       <Routes>
         <Route index element={<Home />} />
 
